@@ -25,8 +25,9 @@
 **Languages**
 
 * C#
+* SQL Server
+* Flutter
 * C++
-* SQL
 
 **Frameworks & Technologies**
 
@@ -40,7 +41,7 @@
 * Visual Studio
 * Git & GitHub
 * VS Code
-* Figma
+* SQL Server Management Studio
 
 ---
 
