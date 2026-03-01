@@ -45,14 +45,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-**Driving & Vehicle License Department System (DVLD)**
-Desktop application built with **C# Windows Forms** and **SQL Server** using **ADO.NET**.
-Implements layered architecture to manage drivers, licenses, applications, and test scheduling.
-
----
-
 ```csharp
 class MahmoudAwad
 {
