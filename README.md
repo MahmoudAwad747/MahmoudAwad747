@@ -68,4 +68,4 @@ class MahmoudAwad
 
 ---
 
-⭐ *Always open to internships, collaboration, and learning opportunities.*
+⭐ *Always open to collaboration, and learning opportunities.*
