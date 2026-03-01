@@ -26,7 +26,7 @@
 
 * C#
 * SQL Server
-* Flutter
+* Dart
 * C++
 
 **Frameworks & Technologies**
@@ -35,6 +35,7 @@
 * .NET Core
 * Windows Forms
 * ADO.NET
+* Flutter
 
 **Tools**
 
@@ -60,4 +61,4 @@ class MahmoudAwad
 
 ---
 
-⭐ *Always open to collaboration, and learning opportunities.*
+⭐ *Always open to collaboration, and junior opportunities.*
